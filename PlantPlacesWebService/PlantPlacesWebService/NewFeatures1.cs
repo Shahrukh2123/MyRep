@@ -13,5 +13,10 @@ namespace PlantPlacesWebService
             get;
             set;
         }
+        public int Id
+        {
+            get;
+            set;
+        }
     }
 }
