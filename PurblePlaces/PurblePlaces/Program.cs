@@ -8,5 +8,10 @@ namespace PurblePlaces
         {
             Console.WriteLine("Hello Shahrukh Khan!");
         }
+        public string Id
+        {
+            get;
+            set;
+        }
     }
 }
